@@ -4,5 +4,6 @@ public class HelloIDEA {
     public static void main(String[] args) {
         System.out.println("HelloIDEA");
         List l = new ArrayList( );
+        System.out.println("hi");
     }
 }
